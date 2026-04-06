@@ -33,7 +33,7 @@ by CBN licensed financial institutions in Nigeria.
 **Page 1 — Portfolio Overview** 
 - NPL exposure by branch (Doubtful + Loss filtered)
 
-**Page 2 — Loan Detail View**
+**Page 2 — Loan Detail**
 
 **Page 3 — Trend Analysis**
 
