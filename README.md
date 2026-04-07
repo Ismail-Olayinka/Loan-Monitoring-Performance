@@ -39,7 +39,7 @@ by CBN licensed financial institutions in Nigeria.
 
 ## Key Findings
 
-1. At 17.2%, the portfolio NPL ratio is 2.46 times the CBN maximum of 7%. This represents a systemic failure required to be escalated to the board.
+1. At 17.2%, the portfolio NPL ratio is 3.44 times the CBN regulatory ceiling of 5% and 2.46 times the current Nigerian banking industry average of 7%, as reported by the CBN in its 2025. This represents a systemic credit quality failure that warrants board-level escalation. In a licensed institution.
 
 2. 3,099 (10.3%) of the total loans are completely unsecured with zero collateral. A further 1,501 (5%) of the total loans use inventory as collateral, which are assets with distressed recovery rates.
 
