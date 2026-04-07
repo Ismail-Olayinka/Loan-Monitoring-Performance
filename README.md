@@ -12,7 +12,7 @@ by CBN licensed financial institutions in Nigeria.
 | Raw Data Columns | 29 fields per record |
 | Principal Amount | ₦1.397 Trillion |
 | Outstanding Balance | ₦732.17 Billion |
-| Risk Grades | 5 (CBN framework) |
+| Risk Grades | 5 (CBN/IFRS 9 framework) |
 | Dashboards | 3 Power BI pages |
 | DAX Measures | 10+ calculated KPIs |
 | Tools | Microsoft Excel, Power BI, Power Query, DAX |
